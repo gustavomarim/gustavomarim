@@ -1,4 +1,4 @@
-## Hi, I'm Gustavo! 👋
+## Hi there 👋, I'm Gustavo! 👨‍💻
 
 
 

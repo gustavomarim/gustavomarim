@@ -7,7 +7,8 @@
 
 
 ### Minhas informações aqui no GitHub:
-![Status](https://github-readme-stats.vercel.app/api?username=gustavomarim) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomarim&layout=compact)](https://github.com/gustavomarim/github-readme-stats)
+![Status](https://github-readme-stats.vercel.app/api?username=gustavomarim&show_icons=true&theme=tokyonight) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomarim&layout=compact&theme=tokyonight)](https://github.com/gustavomarim/github-readme-stats)
+
 
 <p align="center">
  Sejam Bem Vindos! <br></p>

@@ -20,7 +20,7 @@ Tenho como meta poder através da programação, mudar positivamente a vida das 
 <p align="center">
  Sejam Bem Vindos! <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/gustavomarim/count.svg" /></p>
 <p align="center">
 Até mais! 😄
 </p>

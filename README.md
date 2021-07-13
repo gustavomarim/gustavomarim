@@ -4,7 +4,7 @@
 
 Atualmente estou graduando Ciência da Computação e estudando para ser um Front-end Developer. Tenho como paixões a programação, livros, esportes e vídeo-game. 
 
-Tenho como meta poder através da programação, mudar positivamente a vida das pessoas. 
+Tenho como meta poder mudar a vida das pessoas positivamente através da programação. 
 
 *"Porque nos sonhos entramos num mundo inteiramente nosso. Deixe que mergulhe no mais profundo oceano ou flutue na mais alta nuvem - Alvo Dumbledore. 🧙"*
 

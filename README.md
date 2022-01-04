@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-Atualmente estou graduando Ciência da Computação e estudando para ser um Front-end Developer. Tenho como paixões a programação, livros, esportes e vídeo-game. 
+Atualmente estou graduando Ciência da Computação e estudando para ser um Front end Developer. Tenho como paixões a programação, livros, esportes e vídeo-game. 
 
 Tenho como meta poder mudar a vida das pessoas positivamente através da programação. 
 

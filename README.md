@@ -25,9 +25,3 @@ Tenho como meta poder mudar a vida das pessoas positivamente através da program
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
 </div>
-
-
-<!--
-
- link badges
-https://github.com/alexandresanlim/Badges4-README.md-Profile --->

@@ -15,7 +15,13 @@ Tenho como meta poder mudar a vida das pessoas positivamente através da program
 <hr>
 
 ### Minhas informações aqui no GitHub:
-![Status](https://github-readme-stats.vercel.app/api?username=gustavomarim&show_icons=true&theme=tokyonight) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomarim&layout=compact&theme=tokyonight)](https://github.com/gustavomarim/github-readme-stats)
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomarim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gustavomarim">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomarim&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

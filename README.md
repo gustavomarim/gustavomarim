@@ -2,17 +2,45 @@
 
 ### Sobre Mim
 
-Atualmente estou graduando Ciência da Computação e estudando para ser um Front end Developer. Tenho como paixões a programação, livros, esportes e vídeo-game. 
+Atualmente estou graduando Ciência da Computação e estudando para ser um desenvolvedor Front end. Tenho como paixões a programação, livros, esportes e vídeo-game.
 
-Tenho como meta poder mudar a vida das pessoas positivamente através da programação. 
+Meu maior objetivo é poder transformar positivamente a vida das pessoas através da programação. 
+
+
+<br>
 
 *"Porque nos sonhos entramos num mundo inteiramente nosso. Deixe que mergulhe no mais profundo oceano ou flutue na mais alta nuvem - Alvo Dumbledore. 🧙"*
 
+---
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavodantasmarim/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gustavodntts/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo.dantas.marim@gmail.com" />](mailto:gustavo.dantas.marim@gmail.com/)
+### Linguagens e Ferramentas utilizadas em meus projetos:
 
-<hr>
+<div style="display: inline_block"><br>
+  <ul>
+    <li>
+      <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      HTML 5
+    </li>
+    <li>
+      <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      CSS 3
+    </li>
+    <li>
+      <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      JavaScript
+    </li>
+    <li>
+      <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      React
+    </li>
+    <li>
+      <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      TypeScript
+    </li>
+  </ul>
+</div>
+
+---
 
 ### Minhas informações aqui no GitHub:
 
@@ -21,12 +49,15 @@ Tenho como meta poder mudar a vida das pessoas positivamente através da program
 <a href="https://github.com/gustavomarim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomarim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+<br>
+  
+---
 
+### Contate-me:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavodantasmarim/) 
+
+ <br>
+  
+ Caso tenha interesse, deixo meus melhores projetos nos **cards** abaixo 👇.

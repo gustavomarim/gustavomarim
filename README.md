@@ -60,4 +60,4 @@ Meu maior objetivo é poder transformar positivamente a vida das pessoas atravé
 
  <br>
   
- Caso tenha interesse, deixo meus melhores projetos nos **cards** abaixo 👇.
+ Caso tenha interesse, deixo meus principais projetos nos **cards** abaixo 👇.

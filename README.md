@@ -30,12 +30,12 @@ Meu maior objetivo é poder transformar positivamente a vida das pessoas atravé
       JavaScript
     </li>
     <li>
-      <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      React
-    </li>
-    <li>
       <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       TypeScript
+    </li>
+    <li>
+      <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      React
     </li>
   </ul>
 </div>

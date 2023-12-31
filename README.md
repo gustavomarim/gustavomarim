@@ -2,19 +2,6 @@
 
 ### Sobre Mim
 
-Graduado em Ciência da Computação, sou um desenvolvedor front-end apaixonado por criar experiências digitais incríveis. 
-
-Com experiência em manutenção de sites, correção de bugs e desenvolvimento de funcionalidades, estou sempre em busca de aprender e aplicar as últimas tecnologias, como JavaScript, TypeScript e React. 
-
-Tenho habilidades em gestão e administração de sites na plataforma e-commerce VTEX, além de conhecimentos em configuração de eventos no GTM. 
-
-Trabalho colaborativamente em equipes ágeis, seguindo metodologias como Scrum ou Kanban. 
-
-Sou adepto das melhores práticas de desenvolvimento front-end, como estruturação semântica, otimização de SEO e utilização do GitFlow. 
-
-Estou pronto para enfrentar desafios e contribuir para o sucesso de projetos que impactem positivamente a vida das pessoas.
-
-
 <br>
 
 *"Porque nos sonhos entramos num mundo inteiramente nosso. Deixe que mergulhe no mais profundo oceano ou flutue na mais alta nuvem - Alvo Dumbledore. 🧙"*

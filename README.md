@@ -1,11 +1,7 @@
 ## Olá 👋, eu sou Gustavo Dantas! 👨‍💻
 
 ### Sobre Mim
-
-<br>
-
-*"Porque nos sonhos entramos num mundo inteiramente nosso. Deixe que mergulhe no mais profundo oceano ou flutue na mais alta nuvem - Alvo Dumbledore. 🧙"*
-
+...
 ---
 
 ### Linguagens e Ferramentas utilizadas em meus projetos:
